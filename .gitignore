@@ -1,8 +1,32 @@
+# macOS / editor
 .DS_Store
 .Rhistory
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/plugins/
-.obsidian/themes/
 *.swp
 *.swo
+
+# Obsidian config (local to your machine)
+.obsidian/
+Wiki/.obsidian/
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Personal context — changes every session, contains private info
+CLAUDE.md
+
+# Raw sources — read-only reference material
+Brains/
+
+# Root files not part of the wiki system
+Welcome.md
+
+# Wiki content pages — commit manually when ready
+Wiki/Daily/
+Wiki/Concepts/
+Wiki/People/
+Wiki/Goals/
+Wiki/Projects/
+Wiki/Sources/
+Wiki/Clippings/
+Wiki/YC Descriptions/
+Wiki/lint-*.md
