@@ -1,0 +1,8 @@
+.DS_Store
+.Rhistory
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/themes/
+*.swp
+*.swo
